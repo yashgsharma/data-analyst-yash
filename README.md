@@ -34,6 +34,7 @@ Query and Analysis:
 AWS Athena is used for SQL-based data exploration.
 Analysis focused on specific use cases like illegal dumping and high water consumption.
 Visualization:
-
 Insights displayed on CloudWatch dashboards with widgets for key metrics like bucket size, API calls, and estimated costs.
+![Sample Dashboard](images/dashboard-sample.png)
+
 
